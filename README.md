@@ -34,6 +34,9 @@ Para configurar y ejecutar el proyecto en tu entorno local, sigue estos pasos:
 2. Si lo deseas puedes crear un superusuario para acceder al panel de administración de Django:
 
     `python manage.py createsuperuser`
+El usuario administrador que se creo fue
+user: super_user
+pass: python123
 
 3. Inicia el servidor de desarrollo:
 
